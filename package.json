@@ -1,0 +1,25 @@
+{
+  "name": "dream-air-line",
+  "version": "1.0.0",
+  "description": "simulation de page de réservation de voyages",
+  "main": "index.html",
+  "scripts": {
+    "build": "webpack --mode production",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/derimer/dream-air-line.git"
+  },
+  "author": "derimer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/derimer/dream-air-line/issues"
+  },
+  "homepage": "https://github.com/derimer/dream-air-line#readme",
+  "devDependencies": {
+    "html-loader": "^5.1.0",
+    "webpack": "^5.98.0",
+    "webpack-cli": "^6.0.1"
+  }
+}
